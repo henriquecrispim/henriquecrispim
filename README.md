@@ -1,41 +1,22 @@
-### Hi there 👋
+## Oi! Eu sou o Henrique 
 
-<!--
-**henriquecrispim/henriquecrispim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently estudando
-- 🌱 I’m currently learning
+- Estudando Economia 
+- Estudando R
 
  <div>
-  <a href="https://github.com/henriquecrispim">
+  <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriquecrispim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquecrispim&layout=compact&langs_count=7&theme=dracula"/>
+
 </div>
-
-nome : Gerar Dados
-
-em :
-  cronograma : # executar a cada 12 horas
-    - cron : " * * / 12 * * * "
-  workflow_dispatch :
-
-empregos :
-  construir :
-    nome : Trabalhos para atualizar dados
-    roda em : ubuntu-mais recente
-    passos :
-      # Animação de cobra
-      - usa : Platane / snk @ master
-        id : snake-gif
-        com :
-          github_user_name : rafaballerini
-          svg_out_path : dist / github-Contribution-grid-snake.svg
-
-      - usa : crazy-max/ghaction-github-pages@v2.1.3
-        com :
-          target_branch : output
-          build_dir : dist
-        env :
-          GITHUB_TOKEN : $ {{secrets.GITHUB_TOKEN}}
+  
+  ##
+ 
+<div> 
+  
+  <a href="https://instagram.com/henriquecrispim_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "hccrispim@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 
+  ![Snake animation](https://github.com/henriquecrispim/henriquecrispim/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
