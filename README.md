@@ -1,21 +1,17 @@
-## Oi! Eu sou o Henrique 
+# Olá! Eu sou o Henrique Crispim 👋
 
-- Estudando Economia 
-- Estudando R
+Estudante de Ciências Econômicas com foco em **Finanças Quantitativas**, **Análise Macroeconômica**, **Análise Microeconômica** e **Ciência de Dados**. Utilizo Python e R para transformar dados brutos e alternativos em inteligência de mercado e modelagem econométrica.
 
- <div>
-  <a href="https://github.com/henriquecrispim">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriquecrispim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+---
 
-</div>
+### 🚀 Stack Tecnológica & Ferramentas
+* **Linguagens:** Python, R, SQL, LaTeX (Overleaf)
+* **Engenharia & Análise de Dados:** Pandas, NumPy, Requests, BeautifulSoup4 (Web Scraping)
+* **Visualização & Dashboards:** Matplotlib, Seaborn, Plotly, IPyWidgets
+* **Finanças & Economia:** Modelagem de Portfólios (Markowitz), Análise Estatística, Integração de APIs Financeiras e Públicas (yfinance, Google Trends, BACEN/SGS)
 
-  ##
- 
-<div> 
-  
-  <a href="https://instagram.com/henriquecrispim_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:hccrispim@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+---
+
+### 📫 Conecte-se Comigo
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/@henriquecrispim_)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hccrispim@gmail.com)
